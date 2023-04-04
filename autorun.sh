@@ -1,0 +1,1 @@
+run nitrogen --set-auto --random ~/Pictures/themes
